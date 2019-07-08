@@ -5,3 +5,7 @@
 .project
 target
 .settings
+
+ga_experiments/
+my_db/
+run_resources/

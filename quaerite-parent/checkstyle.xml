@@ -46,11 +46,6 @@
     <property name="lineSeparator" value="lf"/>
   </module>
 
-  <module name="RegexpMultiline">
-    <property name="format" value="\r\n"/>
-    <property name="message" value="CRLF line endings are prohibited"/>
-  </module>
-
   <module name="TreeWalker">
     <!--<module name="FileContentsHolder"/>-->
     <module name="OuterTypeFilename"/>
